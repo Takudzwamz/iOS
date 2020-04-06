@@ -58,15 +58,15 @@
 		5C8D25E3243216DF0096EE95 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 		5C8D25E524321C650096EE95 /* TableCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableCell.swift; sourceTree = "<group>"; };
 		5C8D25E8243388AB0096EE95 /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
-		69102967243B89D300835C96 /* ru.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = ru.jpg; path = "../../../../../Desktop/country-images-master/ru.jpg"; sourceTree = "<group>"; };
-		69102968243B89D300835C96 /* zw.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = zw.jpg; path = "../../../../../Desktop/country-images-master/zw.jpg"; sourceTree = "<group>"; };
-		69102969243B89D300835C96 /* ie.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = ie.jpg; path = "../../../../../Desktop/country-images-master/ie.jpg"; sourceTree = "<group>"; };
-		6910296A243B89D300835C96 /* rw.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = rw.jpg; path = "../../../../../Desktop/country-images-master/rw.jpg"; sourceTree = "<group>"; };
-		6910296B243B89D300835C96 /* us.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = us.jpg; path = "../../../../../Desktop/country-images-master/us.jpg"; sourceTree = "<group>"; };
-		69102971243B8AFD00835C96 /* sa.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = sa.jpg; path = ../../../../../Desktop/sa.jpg; sourceTree = "<group>"; };
-		69102973243B8B0600835C96 /* vie.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = vie.jpg; path = ../../../../../Desktop/vie.jpg; sourceTree = "<group>"; };
-		69102975243B8B0E00835C96 /* corona.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = corona.jpg; path = ../../../../../Desktop/corona.jpg; sourceTree = "<group>"; };
-		69102977243B8B7900835C96 /* nz.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = nz.jpg; path = ../../../../../Desktop/nz.jpg; sourceTree = "<group>"; };
+		69102967243B89D300835C96 /* ru.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ru.jpg; sourceTree = "<group>"; };
+		69102968243B89D300835C96 /* zw.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = zw.jpg; sourceTree = "<group>"; };
+		69102969243B89D300835C96 /* ie.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ie.jpg; sourceTree = "<group>"; };
+		6910296A243B89D300835C96 /* rw.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = rw.jpg; sourceTree = "<group>"; };
+		6910296B243B89D300835C96 /* us.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = us.jpg; sourceTree = "<group>"; };
+		69102971243B8AFD00835C96 /* sa.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sa.jpg; sourceTree = "<group>"; };
+		69102973243B8B0600835C96 /* vie.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = vie.jpg; sourceTree = "<group>"; };
+		69102975243B8B0E00835C96 /* corona.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = corona.jpg; sourceTree = "<group>"; };
+		69102977243B8B7900835C96 /* nz.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nz.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */

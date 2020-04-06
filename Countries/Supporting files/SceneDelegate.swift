@@ -1,9 +1,9 @@
 //
-//  SceneDelegate.swift
-//  DanceStyle
+//  CountriesTableViewController.swift
+//  Countries
 //
-//  Created by Yulia Zatonskaya on 17.03.2020.
-//  Copyright © 2020 Zatonskayay. All rights reserved.
+//  Created by Takudzwa Mupanesure on 15/03/2020.
+//  Copyright © 2020 Takudzwa Mupanesure. All rights reserved.
 //
 
 import UIKit
